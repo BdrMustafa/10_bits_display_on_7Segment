@@ -1,1 +1,1 @@
-# 10_bits_display_on_7Segment
+# 10_bits_display_on_3_7Segment
